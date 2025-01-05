@@ -24,26 +24,39 @@
 管理员功能：1. 登录、2. 员工信息管理、3. 部门信息管理、4. 员工工资设定、5.系统设置
 **用户功能图：**
 1. 登录
+
 ![image.png](https://pic.picprosol.com/user_upload/47a0c8c315464e69858d8da56b2d15ba/2025-01-04%2013:06:46_image.png)
+
 2. 查询工资
+
 ![image.png](https://pic.picprosol.com/user_upload/47a0c8c315464e69858d8da56b2d15ba/2025-01-04%2013:06:51_image.png)
 
 **管理员功能图：**
+
 1. 登录
+
 ![image.png](https://pic.picprosol.com/user_upload/47a0c8c315464e69858d8da56b2d15ba/2025-01-04%2013:07:02_image.png)
+
 2. 员工信息管理
+
 ![image.png](https://pic.picprosol.com/user_upload/47a0c8c315464e69858d8da56b2d15ba/2025-01-04%2013:03:41_image.png)
 ![image.png](https://pic.picprosol.com/user_upload/47a0c8c315464e69858d8da56b2d15ba/2025-01-04%2013:03:52_image.png)
 ![image.png](https://pic.picprosol.com/user_upload/47a0c8c315464e69858d8da56b2d15ba/2025-01-04%2013:04:00_image.png)
+
 3. 部门信息管理
+
 ![image.png](https://pic.picprosol.com/user_upload/47a0c8c315464e69858d8da56b2d15ba/2025-01-04%2013:04:07_image.png)
 ![image.png](https://pic.picprosol.com/user_upload/47a0c8c315464e69858d8da56b2d15ba/2025-01-04%2013:04:18_image.png)
 ![image.png](https://pic.picprosol.com/user_upload/47a0c8c315464e69858d8da56b2d15ba/2025-01-04%2013:04:28_image.png)
+
 4. 员工工资设定
+   
 ![image.png](https://pic.picprosol.com/user_upload/47a0c8c315464e69858d8da56b2d15ba/2025-01-04%2013:04:36_image.png)
 ![image.png](https://pic.picprosol.com/user_upload/47a0c8c315464e69858d8da56b2d15ba/2025-01-04%2013:04:46_image.png)
 ![image.png](https://pic.picprosol.com/user_upload/47a0c8c315464e69858d8da56b2d15ba/2025-01-04%2013:04:55_image.png)
+
 5.系统设置
+
 ![image.png](https://pic.picprosol.com/user_upload/47a0c8c315464e69858d8da56b2d15ba/2025-01-04%2013:05:25_image.png)
 ![image.png](https://pic.picprosol.com/user_upload/47a0c8c315464e69858d8da56b2d15ba/2025-01-04%2013:05:36_image.png)
 ![image.png](https://pic.picprosol.com/user_upload/47a0c8c315464e69858d8da56b2d15ba/2025-01-04%2013:05:44_image.png)
